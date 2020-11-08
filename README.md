@@ -29,6 +29,7 @@ In this project, you will be provided with a real-world dataset, extracted from 
 `spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.11:2.3.4 --master local[*] data_stream.py`
 
 # 3. kafka consumer console output
+![Screenshot](consume_data.jpeg)
 
 # 4. Streaming progress reporter
 
