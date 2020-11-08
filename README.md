@@ -32,10 +32,13 @@ In this project, you will be provided with a real-world dataset, extracted from 
 ![Screenshot](consume_data.jpeg)
 
 # 4. Streaming progress reporter
+![Screenshot](process_report.jpeg)
 
 # 5. Output
+![Screenshot](stats.jpeg)
 
 # 6. Spark UI
+![Screenshot](spark_ui.jpeg)
 
 # 7. Respond to questions for successful project submission
 
